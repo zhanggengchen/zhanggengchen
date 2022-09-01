@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhanggengchen
-- 👀 I’m interested in Comuter Vision & SLAM
-- 🌱 I’m currently learning SLAM
+- 👀 I’m interested in Comuter Vision & SLAM & Low-light image enhancement
+- 🌱 I’m currently learning Low-light image enhancement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zxmyx2@163.com
 
